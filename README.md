@@ -13,10 +13,12 @@ In this project we will be implementing and analyzing the following Algorithmes:
 
 In the first section we will implement the classic kalman filter, we will extract the KITTI OXTS 
 GPS trajectory from recorded data 2011_09_26_drive_0022, from this data we will get the
+
 - lat: latitude of the oxts-unit (deg)
 - long: longitude of the oxts-unit (deg) 
 - Extract timestamps from KITTI data and convert them to seconds elapsed from the first 
 one
+
 We will then transform these LLA coordinates to ENU coordinate system, add Gaussian noise to 
 x and y of the ENU coordinates and then implement the kalman filter on the constant velocity 
 model given the noise trajectories in order to approximate the ground truth trajectory we will see 
