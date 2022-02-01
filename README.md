@@ -1,5 +1,5 @@
 # mapping-and-perception-project-2-Kalman-Filter-EKF-and-EKF-SLAM
-# more information about result analysis algorithim and code read the full project 2 pdf report
+
 
 
 Abstract
@@ -36,6 +36,6 @@ on the kalman gain, corrected mean and uncertainty matrix, for each time step to
 the estimated localization and mapping. Our inputs will be observations at the relevant time 
 steps and motion commands. We will then analyze the results to reach minimum RMSE and 
 maxE values. Moreover will analyze the estimation error of X,Y,Theta and of 2 landmarks
-
+# more information about result analysis algorithim and code read the full project 2 pdf report
 
 
