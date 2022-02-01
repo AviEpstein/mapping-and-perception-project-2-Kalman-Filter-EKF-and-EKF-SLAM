@@ -1,4 +1,7 @@
 # mapping-and-perception-project-2-Kalman-Filter-EKF-and-EKF-SLAM
+# more information about result analysis algorithim and code read the full project 2 pdf report
+
+
 Abstract
 In this project we will be implementing and analyzing the following Algorithmes:
 ● Kalman Filter
@@ -36,4 +39,3 @@ maxE values. Moreover will analyze the estimation error of X,Y,Theta and of 2 la
 
 
 
-# for more information about result analysis algorithim and code read the full project 2 pdf report
