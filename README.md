@@ -4,9 +4,13 @@
 
 Abstract
 In this project we will be implementing and analyzing the following Algorithmes:
+
 ● Kalman Filter
+
 ● Extended kalman filter
+
 ● EKF - SLAM
+
 In the first section we will implement the classic kalman filter, we will extract the KITTI OXTS 
 GPS trajectory from recorded data 2011_09_26_drive_0022, from this data we will get the
 - lat: latitude of the oxts-unit (deg)
